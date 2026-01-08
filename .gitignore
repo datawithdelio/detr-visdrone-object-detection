@@ -16,3 +16,15 @@ checkpoints/
 *.pth
 *.pt
 *.ckpt
+
+# --- big data / zips ---
+*.zip
+coco/
+VisDrone2019-DET-*/
+runs/
+outputs/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+.DS_Store
